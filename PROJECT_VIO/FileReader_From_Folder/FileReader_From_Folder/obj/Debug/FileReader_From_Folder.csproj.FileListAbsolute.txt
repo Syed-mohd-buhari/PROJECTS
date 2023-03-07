@@ -1,0 +1,8 @@
+C:\Users\syedmoha\PROJECT_VIO\FileReader_From_Folder\FileReader_From_Folder\bin\Debug\FileReader_From_Folder.exe.config
+C:\Users\syedmoha\PROJECT_VIO\FileReader_From_Folder\FileReader_From_Folder\bin\Debug\FileReader_From_Folder.exe
+C:\Users\syedmoha\PROJECT_VIO\FileReader_From_Folder\FileReader_From_Folder\bin\Debug\FileReader_From_Folder.pdb
+C:\Users\syedmoha\PROJECT_VIO\FileReader_From_Folder\FileReader_From_Folder\obj\Debug\FileReader_From_Folder.csproj.AssemblyReference.cache
+C:\Users\syedmoha\PROJECT_VIO\FileReader_From_Folder\FileReader_From_Folder\obj\Debug\FileReader_From_Folder.csproj.SuggestedBindingRedirects.cache
+C:\Users\syedmoha\PROJECT_VIO\FileReader_From_Folder\FileReader_From_Folder\obj\Debug\FileReader_From_Folder.csproj.CoreCompileInputs.cache
+C:\Users\syedmoha\PROJECT_VIO\FileReader_From_Folder\FileReader_From_Folder\obj\Debug\FileReader_From_Folder.exe
+C:\Users\syedmoha\PROJECT_VIO\FileReader_From_Folder\FileReader_From_Folder\obj\Debug\FileReader_From_Folder.pdb

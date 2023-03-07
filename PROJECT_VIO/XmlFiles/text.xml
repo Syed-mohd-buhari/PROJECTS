@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<student>
+<s1>
+<name>Ram</name>
+<class>12</class>
+<result>Pass</result>
+</s1>
+<s2>
+<name>Syed</name>
+<class>13</class>
+<result>Fail</result>
+</s2>
+<s3>
+<name>Mohamed</name>
+<class>12</class>
+<result>Pass</result>
+</s3>
+</student>
